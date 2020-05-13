@@ -21,4 +21,4 @@
 
 
 Скриншот сабмитов:
-![Скриншот с LB](images/best_sub.PNG)
+![](images/best_sub.pnb)
